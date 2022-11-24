@@ -1,3 +1,12 @@
 [submodule "lua-fltk4lua"]
 	path = lua-fltk4lua
 	url = https://github.com/siffiejoe/lua-fltk4lua
+[submodule "iup"]
+	path = iup
+	url = https://github.com/LuaDist/iup
+[submodule "busybox"]
+	path = busybox
+	url = https://git.busybox.net/busybox/
+[submodule "lua-tk"]
+	path = lua-tk
+	url = https://github.com/agraef/lua-tk

@@ -1,0 +1,3 @@
+[submodule "lua-fltk4lua"]
+	path = lua-fltk4lua
+	url = https://github.com/siffiejoe/lua-fltk4lua

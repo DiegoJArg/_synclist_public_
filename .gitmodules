@@ -10,3 +10,6 @@
 [submodule "lua-tk"]
 	path = lua-tk
 	url = https://github.com/agraef/lua-tk
+[submodule "leveldb"]
+	path = leveldb
+	url = https://github.com/google/leveldb.git
